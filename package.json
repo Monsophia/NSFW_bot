@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Monsophia/example_bot#readme",
   "dependencies": {
     "@extreme_hero/deeptype": "^1.0.1",
-    "chalk": "^4.0.0",
+    "chalk": "^4.1.2",
     "discord.js": "^13.8.1",
     "glob": "^8.0.3",
     "moment": "^2.29.4",
